@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    border: 0%;
+    padding: 0%;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+.col-sm,.col-md-2{
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+.jumbotron{
+    background-color: rgb(24, 219, 76);
+}
+.img_thumbnail{
+    height:100px
+}
+#pic{
+    width: 200px;
+}
