@@ -1,4 +1,4 @@
-'use strict';
+
 let api=`http://api.github.com/users`;
 let data;
 const req=new Promise((resolve,reject)=>{
