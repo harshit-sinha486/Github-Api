@@ -1,5 +1,5 @@
 
-let api=`http://api.github.com/users`;
+let api=`https://api.github.com/users`;
 let data;
 const req=new Promise((resolve,reject)=>{
     data=fetch(api);
